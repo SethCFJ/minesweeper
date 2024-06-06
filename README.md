@@ -1,21 +1,54 @@
-# MineSweeper JAVA CLI Game
+# Minesweeper Java CLI game
 
-Welcome to my MineSweeper project!
 
-## Introduction
 
-This is my MineSweeper project. It uses a 2 dimensional array to generate a field of empty spaces, flags for mines and the mines themselves. The user can control how many mines are created and inputs a row/column value each turn. The game is won by clearing the board without selecting a field that has a mine.
+## Demo & Snippets
 
-## To-Do
 
-- Create a GUI
-- Make the user able to change the size of the game grid
-- Make a file that tracks wins and losses
 
-## Languages used
+---
 
-- JAVA
+## Requirements / Purpose
 
-## Contact
+-   To create a minesweeper java game within the command line.
+-   Allows users to select rows and columns to make their guesses.
+-   Updates the field on user input
+-   Returns a Win/Loss message
 
-You can contact me at seth_fordham@icloud.com
+---
+
+## Build Steps
+-   Be in the project directory folder
+-   Open Command line
+-   Type "Java MineSweeper.java"  
+---
+
+## Design Goals / Approach
+
+-   Make a grid with numbered rows and columns
+-   Use nested arrays to create the grid
+-   GOAL: Create GUI
+
+---
+
+## Features
+
+-   User input to make moves
+-   Adjacent space clearing
+-   Custom mine amount
+
+---
+
+## Future Goals
+
+-   Create a GUI
+-   Allow user to change the size of the game grid
+-   Create a file that tracks users wins and losses
+
+---
+
+
+## Licensing Details
+
+-   Unlicensed
+
