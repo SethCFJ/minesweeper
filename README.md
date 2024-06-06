@@ -5,6 +5,7 @@
 ## Demo & Snippets
 
 
+<img width="439" alt="Minesweeper" src="https://github.com/SethCFJ/minesweeper/assets/160681650/c847aeba-a749-44a3-ae69-06af0e7d41a0">
 
 ---
 
